@@ -1,0 +1,7 @@
+{
+  "name": "loginFireApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
