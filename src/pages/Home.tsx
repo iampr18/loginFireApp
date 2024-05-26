@@ -7,7 +7,7 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Blank</IonTitle>
+          <IonTitle>Firebase connect hello</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
